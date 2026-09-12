@@ -39,7 +39,8 @@ typedef struct {
 1. **Series Connections ($S$):**
 
 $$
-S = \frac{V_{\text{pack\_nominal}}}{V_{\text{cell\_nominal}}}$$
+S = \frac{V_{\text{pack\_nominal}}}{V_{\text{cell\_nominal}}}
+$$
 
 
 2. **Parallel Connections ($P$):**
@@ -52,8 +53,6 @@ $$
 $$
 P = \frac{\left(\frac{E_{\text{Wh}}}{V_{\text{pack\_nominal}}}\right)}{C_{\text{cell\_capacity}}}
 $$
-
-
 
 ---
 
