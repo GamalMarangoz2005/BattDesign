@@ -42,11 +42,14 @@ typedef struct {
 
 2. **Parallel Connections (P):**
 
-<img src="https://latex.codecogs.com/svg.image?E_{Wh}=E_{kWh}\times1000" alt="Energy Conversion Formula" />
+<img src="https://latex.codecogs.com/svg.image?P=\frac{\left(\frac{E_{Wh}}{V_{pack\_nominal}}\right)}{C_{cell\_capacity}}" alt="Parallel Connections Formula" />
 
 <br>
 
-<img src="https://latex.codecogs.com/svg.image?P=\frac{\left(\frac{E_{Wh}}{V_{pack\_nominal}}\right)}{C_{cell\_capacity}}" alt="Parallel Connections Formula" />
+3. **kWh_to_Wh Helper Function**
+<img src="https://latex.codecogs.com/svg.image?E_{Wh}=E_{kWh}\times1000" alt="Energy Conversion Formula" />
+
+
 
 ---
 
