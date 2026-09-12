@@ -36,24 +36,17 @@ typedef struct {
 
 ## ⚙️ Mathematical Model
 
+1. **Series Connections (S):**
 
-1. **Series Connections ($S$):**
+<img src="https://latex.codecogs.com/svg.image?S=\frac{V_{pack\_nominal}}{V_{cell\_nominal}}" alt="Series Connections Formula" />
 
-$$
-S = \frac{V_{\text{pack\_nominal}}}{V_{\text{cell\_nominal}}}
-$$
+2. **Parallel Connections (P):**
 
-2. **Parallel Connections ($P$):**
+<img src="https://latex.codecogs.com/svg.image?E_{Wh}=E_{kWh}\times1000" alt="Energy Conversion Formula" />
 
-$$
-E_{\text{Wh}} = E_{\text{kWh}} \times 1000
-$$
+<br>
 
-$$
-P = \frac{\left(\frac{E_{\text{Wh}}}{V_{\text{pack\_nominal}}}\right)}{C_{\text{cell\_capacity}}}
-$$
-
-
+<img src="https://latex.codecogs.com/svg.image?P=\frac{\left(\frac{E_{Wh}}{V_{pack\_nominal}}\right)}{C_{cell\_capacity}}" alt="Parallel Connections Formula" />
 
 ---
 
