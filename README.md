@@ -40,6 +40,8 @@ typedef struct {
 
 <img src="https://latex.codecogs.com/svg.image?S=\frac{V_{pack\_nominal}}{V_{cell\_nominal}}" alt="Series Connections Formula" />
 
+<br>
+
 2. **Parallel Connections (P):**
 
 <img src="https://latex.codecogs.com/svg.image?P=\frac{\left(\frac{E_{Wh}}{V_{pack\_nominal}}\right)}{C_{cell\_capacity}}" alt="Parallel Connections Formula" />
