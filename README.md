@@ -36,7 +36,7 @@ typedef struct {
 
 ## ⚙️ Mathematical Model
 
-```
+
 1. **Series Connections ($S$):**
 
 $$
@@ -53,7 +53,7 @@ $$
 P = \frac{\left(\frac{E_{\text{Wh}}}{V_{\text{pack\_nominal}}}\right)}{C_{\text{cell\_capacity}}}
 $$
 
-```
+
 
 ---
 
